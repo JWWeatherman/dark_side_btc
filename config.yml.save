@@ -16,14 +16,14 @@ title: Darkside Bitcoin
 # ---------------------------------------------------------------------
 # INCLUDE CLIENT PORT IF NOT 80/443!
 
-host: https://darksidebtc
+host: https
 
 # ---------------------------------------------------------------------
 # Port the main server should listen to (80 by default)
 # ---------------------------------------------------------------------
 # To use process.env.PORT, comment the line below:
 
-port: 443
+port: 80
 
 # ---------------------------------------------------------------------
 # Data Directories
@@ -122,16 +122,16 @@ db: mongodb://localhost:27017/wiki
 # ---------------------------------------------------------------------
 
 git:
-  url: https://github.com/JWWeatherman/darkside_btc
+  url: https://github.com/Organization/Repo
   branch: master
   auth:
 
     # Type: basic or ssh
-    type: basic
+    type: ssh
 
     # Only for Basic authentication:
-    username: jwweatherman
-    password: oar-himalaya-joyous
+    username: marty
+    password: MartyMcFly88
 
     # Only for SSH authentication:
     privateKey: /etc/wiki/keys/git.pem
@@ -139,7 +139,7 @@ git:
     sslVerify: true
 
   # Default email to use as commit author
-  serverEmail: gifted.primate@protonmail.com
+  serverEmail: marty@example.com
 
   # Whether to use user email as author in commits
   showUserEmail: true
