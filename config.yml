@@ -1,63 +1,15 @@
-#######################################################################
-# Wiki.js - CONFIGURATION                                             #
-#######################################################################
-# Full explanation + examples in the documentation:
-# https://docs.requarks.io/wiki/install
-# You can use an ENV variable by using $(ENV_VAR_NAME) as the value
-
-# ---------------------------------------------------------------------
-# Title of this site
-# ---------------------------------------------------------------------
-
 title: Darkside Bitcoin
-
-# ---------------------------------------------------------------------
-# Full public path to the site, without the trailing slash
-# ---------------------------------------------------------------------
-# INCLUDE CLIENT PORT IF NOT 80/443!
-
-host: https://darksidebtc
-
-# ---------------------------------------------------------------------
-# Port the main server should listen to (80 by default)
-# ---------------------------------------------------------------------
-# To use process.env.PORT, comment the line below:
-
-port: 443
-
-# ---------------------------------------------------------------------
-# Data Directories
-# ---------------------------------------------------------------------
-
+host: 'http://localhost:3000'
+port: 3000
 paths:
   repo: ./repo
   data: ./data
-
-# ---------------------------------------------------------------------
-# Upload Limits
-# ---------------------------------------------------------------------
-# In megabytes (MB)
-
 uploads:
   maxImageFileSize: 3
   maxOtherFileSize: 100
-
-# ---------------------------------------------------------------------
-# Site Language
-# ---------------------------------------------------------------------
-# Possible values: en, de, es, fa, fr, ja, ko, nl, pt, ru, sr, sv, tr or zh
-
 lang: en
-
-# Enable for right to left languages (e.g. arabic):
 langRtl: false
-
-# ---------------------------------------------------------------------
-# Site Authentication
-# ---------------------------------------------------------------------
-
-public: false
-
+public: true
 auth:
   defaultReadAccess: false
   local:
@@ -80,98 +32,55 @@ auth:
     clientSecret: GITHUB_CLIENT_SECRET
   slack:
     enabled: false
-    clientId: 'SLACK_CLIENT_ID'
-    clientSecret: 'SLACK_CLIENT_SECRET'
+    clientId: SLACK_CLIENT_ID
+    clientSecret: SLACK_CLIENT_SECRET
   ldap:
     enabled: false
-    url: ldap://serverhost:389
+    url: 'ldap://serverhost:389'
     bindDn: cn='root'
     bindCredentials: BIND_PASSWORD
-    searchBase: o=users,o=example.com
-    searchFilter: (uid={{username}})
+    searchBase: 'o=users,o=example.com'
+    searchFilter: '(uid={{username}})'
     tlsEnabled: false
-    tlsCertPath: C:\example\root_ca_cert.crt
+    tlsCertPath: 'C:\example\root_ca_cert.crt'
   azure:
     enabled: false
     clientId: APP_ID
     clientSecret: APP_SECRET_KEY
-    resource: '00000002-0000-0000-c000-000000000000'
-    tenant: 'YOUR_TENANT.onmicrosoft.com'
+    resource: 00000002-0000-0000-c000-000000000000
+    tenant: YOUR_TENANT.onmicrosoft.com
   oauth2:
     enabled: false
     clientId: OAUTH2_CLIENT_ID
     clientSecret: OAUTH2_CLIENT_SECRET
     authorizationURL: OAUTH2_AUTH_URL
     tokenURL: OAUTH2_TOKEN_URL
-
-# ---------------------------------------------------------------------
-# Secret key to use when encrypting sessions
-# ---------------------------------------------------------------------
-# Use a long and unique random string (256-bit keys are perfect!)
-
-sessionSecret: 1234567890abcdefghijklmnopqrstuvxyz
-
-# ---------------------------------------------------------------------
-# Database Connection String
-# ---------------------------------------------------------------------
-
-db: mongodb://localhost:27017/wiki
-
-# ---------------------------------------------------------------------
-# Git Connection Info
-# ---------------------------------------------------------------------
-
+sessionSecret: 927591ae95bf9a2e373d17de1fcef9732e7e45fc484bf0189694dc672b06f504
+db: 'mongodb://localhost:27017/wiki'
 git:
-  url: https://github.com/JWWeatherman/darkside_btc
+  url: 'https://github.com/giftedprimate/dark_side_btc'
   branch: master
   auth:
-
-    # Type: basic or ssh
     type: basic
-
-    # Only for Basic authentication:
-    username: jwweatherman
-    password: oar-himalaya-joyous
-
-    # Only for SSH authentication:
+    username: giftedprimate
+    password: 9w1wNttZRSil
     privateKey: /etc/wiki/keys/git.pem
-
     sslVerify: true
-
-  # Default email to use as commit author
-  serverEmail: gifted.primate@protonmail.com
-
-  # Whether to use user email as author in commits
   showUserEmail: true
-
-# ---------------------------------------------------------------------
-# Features
-# ---------------------------------------------------------------------
-# You can enable / disable specific features below
-
+  serverEmail: gifted.primate@protonmail.com
 features:
   linebreaks: true
   mathjax: true
-
-# ---------------------------------------------------------------------
-# External Logging
-# ---------------------------------------------------------------------
-
 externalLogging:
   bugsnag: false
   loggly: false
   papertrail: false
   rollbar: false
   sentry: false
-
-# ---------------------------------------------------------------------
-# Color Theme
-# ---------------------------------------------------------------------
-
 theme:
   primary: indigo
   alt: blue-grey
-  viewSource: all # all | write | false
+  viewSource: all
   footer: blue-grey
   code:
     dark: true
