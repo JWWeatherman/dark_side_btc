@@ -1,5 +1,5 @@
 <!-- TITLE: Darkside Bitcoin -->
-<!-- SUBTITLE: Keeping track of against bitcoin and attackers behind them -->
+<!-- SUBTITLE: Keeping track of attacks against bitcoin and those behind them -->
 
 ![alt text](http://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
