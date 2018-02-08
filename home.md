@@ -19,3 +19,10 @@ Past Attacks:
 | Bcash aka Bitcoin Cash      | right-aligned | $1600 |
 | Drive Chain      | centered      |   $12 |
 | Segwit2x | are neat      |    $1 |
+
+
+| Attack        | Dates           | Attack Type |                       
+| ------------- |:-------------:| -----:|
+| Bcash aka Bitcoin Cash      | right-aligned | $1600 |
+| Drive Chain      | centered      |   $12 |
+| Segwit2x | are neat      |    $1 |
