@@ -5,24 +5,18 @@
 
 Past Attackers:
 
-* Paul Storzick, Feb 2018, Drive Chains
-* Daniel Krawitz, January 2018, Bcash
+* Paul Storzick, Drive Chains
+* Daniel Krawitz, Bcash
 
 
 Past Attacks:
 
-* BCash aka Bitcoin Cash
-* Drive Chains
-
-| Attack        | Dates           | Attack Type |                       
-| ------------- |:-------------:| -----:|
-| Bcash aka Bitcoin Cash      | right-aligned | $1600 |
-| Drive Chain      | centered      |   $12 |
-| Segwit2x | are neat      |    $1 |
-
-
-| Attack        | Dates           | Attack Type |                       
-| ------------- |:-------------:| -----:|
-| Bcash aka Bitcoin Cash      | right-aligned | $1600 |
-| Drive Chain      | centered      |   $12 |
-| Segwit2x | are neat      |    $1 |
+* BCash aka Bitcoin Cash (Aug 2017 - Present)
+* Drive Chains 
+* SegWit2x 
+* Bitcoin Unlimited 
+* Lite Coin 
+* Etherium 
+* Ripple 
+* Spam Attacks (2015 - Present) 
+* Mining Emply Blocks (2016 - Present) 
