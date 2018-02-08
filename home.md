@@ -15,11 +15,8 @@
 # Past Attacks
 
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
-* Drive Chains 
 * SegWit2x 
 * Bitcoin Unlimited 
-* Lite Coin 
-* Etherium 
 * Ripple 
 * Spam Attacks (2015 - Present) 
 * Mining Emply Blocks (2016 - Present) 
