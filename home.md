@@ -5,8 +5,8 @@
 
 # Past Attackers
 
-* Mike Hern
-* Criag Wright
+* Mike Hearn
+* Craig Wright
 * [Roger Ver](https://darksidebtc.com/roger-ver)
 * Roger Ver
 * Barry Silbert
