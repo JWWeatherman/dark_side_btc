@@ -14,8 +14,8 @@ Past Attacks:
 * BCash aka Bitcoin Cash
 * Drive Chains
 
-| Tables        | Are           | Cool  |
+| Attack        | Dates           | Attack Type |                       
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Bcash aka Bitcoin Cash      | right-aligned | $1600 |
+| Drive Chain      | centered      |   $12 |
+| Segwit2x | are neat      |    $1 |
