@@ -5,13 +5,14 @@
 
 # Past Attackers
 
-* Paul Storzick, Drive Chains
-* Daniel Krawitz, Bcash
+* Mike Hern
+* Criag Wright
+* Roger Ver
+* Barry Silbert
 
 
 # Past Attacks
 
-* BCash aka Bitcoin Cash (Aug 2017 - Present)
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
 * Drive Chains 
 * SegWit2x 
