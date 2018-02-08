@@ -1,5 +1,5 @@
 <!-- TITLE: Darkside Bitcoin -->
-<!-- SUBTITLE: Attacks against bitcoin and the bent ones behind them! -->
+<!-- SUBTITLE: Keeping track of against bitcoin and attackers behind them -->
 
 ![alt text](http://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
