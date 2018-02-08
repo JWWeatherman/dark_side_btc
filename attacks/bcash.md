@@ -1,4 +1,4 @@
-<!-- TITLE: Bitcoin Cash aka Bcash -->
+<!-- TITLE: Bcash aka Bitcoin Cash -->
 <!-- SUBTITLE: An insecure fork of Bitcoin  -->
 
 After the SegWit2x attack failed to introduce dangerously large blocks, a security flaw that could have led to miners converging on a single physical location, the attackers shifted into creating an insecure fork of bitcoin with this security flaw. 
