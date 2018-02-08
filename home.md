@@ -7,6 +7,7 @@
 
 * Mike Hern
 * Criag Wright
+* [Roger Ver](https://darksidebtc.com/roger-ver)
 * Roger Ver
 * Barry Silbert
 
