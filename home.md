@@ -15,7 +15,7 @@
 # Past Attacks
 
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
-* SegWit2x 
+* SegWit2x / New York Agreement (NYA)
 * Bitcoin Unlimited 
 * Ripple 
 * Spam Attacks (2015 - Present) 
