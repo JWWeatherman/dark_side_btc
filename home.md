@@ -6,9 +6,9 @@
 # Past Attackers
 
 * Mike Hearn
-* Craig Wright
+* [Gavin Andresen](https://darksidebtc.com/gavin-andresen)
+* [Craig Wrightr](https://darksidebtc.com/craig-wright)
 * [Roger Ver](https://darksidebtc.com/roger-ver)
-* Roger Ver
 * Barry Silbert
 
 
