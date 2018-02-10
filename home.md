@@ -12,6 +12,8 @@
 * Barry Silbert
 * Jeff Garzik
 * Jihan Wu
+* Vitalik Buterin
+* Establishment economists (Nouriel Roubini, Paul Krugman)
 
 # Past Attacks
 
@@ -20,5 +22,6 @@
 * Bitcoin Unlimited
 * Bitcoin Classic
 * Ripple 
+* Ethereum
 * Spam Attacks (2015 - Present) 
 * Mining Emply Blocks (2016 - Present) 
