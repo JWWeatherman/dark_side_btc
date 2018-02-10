@@ -10,13 +10,15 @@
 * [Craig Wright](https://darksidebtc.com/craig-wright)
 * [Roger Ver](https://darksidebtc.com/roger-ver)
 * Barry Silbert
-
+* Jeff Garzik
+* Jihan Wu
 
 # Past Attacks
 
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
-* SegWit2x / New York Agreement (NYA)
-* Bitcoin Unlimited 
+* SegWit2x (btc1) / New York Agreement (NYA)
+* Bitcoin Unlimited
+* Bitcoin Classic
 * Ripple 
 * Spam Attacks (2015 - Present) 
 * Mining Emply Blocks (2016 - Present) 
