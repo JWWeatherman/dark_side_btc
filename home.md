@@ -7,7 +7,7 @@
 
 * Mike Hearn
 * [Gavin Andresen](https://darksidebtc.com/gavin-andresen)
-* [Craig Wrightr](https://darksidebtc.com/craig-wright)
+* [Craig Wright](https://darksidebtc.com/craig-wright)
 * [Roger Ver](https://darksidebtc.com/roger-ver)
 * Barry Silbert
 
