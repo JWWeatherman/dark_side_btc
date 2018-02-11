@@ -24,6 +24,7 @@
 * Bitcoin Unlimited
 * Bitcoin Classic
 * Bitcoin XT
+* Bank projects (R3CEV, Enterpirse Ethereum Alliance)
 * Ripple
 * Ethereum
 * Spam Attacks (2015 - Present) 
