@@ -19,7 +19,6 @@
 
 # Past Attacks
 
-* TEST
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
 * SegWit2x (btc1) / New York Agreement (NYA)
 * Bitcoin Unlimited
