@@ -13,7 +13,9 @@
 * Jeff Garzik
 * Jihan Wu
 * Vitalik Buterin
+* Establishment central/commercial/investment bankers (Agustín Carstens, Jamie Dimon)
 * Establishment economists (Nouriel Roubini, Paul Krugman)
+* Establishment academics (Emin Gün Sirer)
 
 # Past Attacks
 
@@ -21,8 +23,8 @@
 * SegWit2x (btc1) / New York Agreement (NYA)
 * Bitcoin Unlimited
 * Bitcoin Classic
-* Ripple 
+* Bitcoin XT
+* Ripple
 * Ethereum
 * Spam Attacks (2015 - Present) 
 * Mining Emply Blocks (2016 - Present) 
-* XT
