@@ -9,13 +9,14 @@
 * [Gavin Andresen](https://darksidebtc.com/gavin-andresen)
 * [Craig Wright](https://darksidebtc.com/craig-wright)
 * [Roger Ver](https://darksidebtc.com/roger-ver)
-* Barry Silbert
-* Jeff Garzik
-* Jihan Wu
-* Vitalik Buterin
-* Establishment central/commercial/investment bankers (Agustín Carstens, Jamie Dimon)
-* Establishment economists (Nouriel Roubini, Paul Krugman)
-* Establishment academics (Emin Gün Sirer)
+* [Berry Silbert](https://darksidebtc.com/berry-silbert)
+* [Jeff Garzik](https://darksidebtc.com/jeff-garzik)
+* [Jihan Wu](https://darksidebtc.com/jihan-wu)
+* [Vitalik Buterin](https://darksidebtc.com/vitalik-buterin)
+* [Agustin Carstens](https://darksidebtc.com/agustin-carstens)
+* [Jamie Dimon](https://darksidebtc.com/jamie-dimon)
+* [Paul Krugman](https://darksidebtc.com/paul-krugman)
+* [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 
 # Past Attacks
 
