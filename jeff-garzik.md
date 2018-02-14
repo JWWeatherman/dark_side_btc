@@ -10,7 +10,7 @@
 	* removing economic incentive to maintain network security after inflation
 	* socializing costs of transaction to network node operators (increased network/storage loads)
 * Poorly designed and tested. Proven to have multiple bugs which would have severly endangered the bitcoin economy and ecosystem had the fork taken place.
-* A hardfork: Required 100% of the ecosystem to upgrade immediately, or face disruption / potential loss of funds. 
+* A hardfork: Forcefully required 100% of the ecosystem to upgrade immediately, or face disruption / potential loss of funds. 
 ## United Bitcoin
 * attempt to inflate the value of the network (over 21m coins) 
 * immorally seize coins from long term holders under the guise of social good
