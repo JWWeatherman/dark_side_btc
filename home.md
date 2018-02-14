@@ -30,3 +30,4 @@
 * Ethereum
 * Spam Attacks (2015 - Present) 
 * Mining Emply Blocks (2016 - Present) 
+* Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
