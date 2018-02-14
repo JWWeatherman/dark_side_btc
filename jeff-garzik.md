@@ -11,6 +11,6 @@
 	* socializing costs of transaction to network node operators (increased network/storage loads)
 ## United Bitcoin
 * attempt to inflate the value of the network (over 21m coins) 
-* immorally seize coins from long term holders
+* immorally seize coins from long term holders under the guise of social good
 * immorally push the big blocker agenda by incentivizing/requiring the BTC network be spammed / have users pay mining fees to obtain coins on the UB blockchain blockchain
 * immorally require KYC to obtain coins owned by holders of original bitcoin, aiding Garzik's private corporate interests
