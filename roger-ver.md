@@ -1,5 +1,5 @@
 <!-- TITLE: Roger Ver -->
-<!-- SUBTITLE: ~~Bitcoin Jesus~~ ~~Bitcoin Judas~~ Megatron-->
+<!-- SUBTITLE: ~Bitcoin Jesus~ ~Bitcoin Judas~ Megatron-->
 
 Roger Ver was originally a proponent of Bitcoin, however, <a href="https://cryptoinsider.21mil.com/bitcoin-classic-unlimited-bitcoin-cash-why-people-copy-bitcoin-why-it-does-not-matter/">since 2013 has consistently attempted to undermine the reputation, usability, and security of Bitcoin</a> via malicious propoganda campaigns, backing hostile takeover schemes, and supporting a hardfork (BCash) that introduces a dangerously large blocks security flaw. 
 
