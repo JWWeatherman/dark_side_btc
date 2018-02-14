@@ -14,4 +14,4 @@
 * immorally seize coins from long term holders under the guise of social good
 * immorally push the big blocker agenda by incentivizing/requiring the BTC network be spammed / have users pay (excessive) mining fees to obtain coins on the UB blockchain blockchain
 * imorrally require users to act within certain constraints to obtain their split coins
-* immorally require KYC to obtain coins owned by holders of original bitcoin, aiding Garzik's private corporate interests
+* immorally require KYC to obtain coins owned by holders of original bitcoin, endanging users and aiding in Garzik's private corporate interests
