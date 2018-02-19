@@ -17,7 +17,7 @@
 * [Jamie Dimon](https://darksidebtc.com/jamie-dimon)
 * [Paul Krugman](https://darksidebtc.com/paul-krugman)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
-* [Rick Falkvinge]
+* [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * Francis was here ;) 
 
 # Past Attacks
