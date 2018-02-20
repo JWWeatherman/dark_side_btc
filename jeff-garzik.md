@@ -13,6 +13,7 @@
 * A hardfork: Forcefully required 100% of the ecosystem to upgrade immediately, or face disruption / potential loss of funds.
 
 It is hard to imagine that BTC1 was anything more than a diversion for Bcash due to just how ridiculous it was maintained in every single aspect, a notion only further validated by the fact that Garzick boldly announced that he was working on Metronome, a project aiming to deal specifically with forks, while simultaneously creating one.
+
 ## United Bitcoin
 * attempt to inflate the value of the network (over 21m coins) 
 * immorally seize coins from long term holders under the guise of social good
