@@ -31,6 +31,6 @@
 * Ripple
 * Ethereum
 * Spam Attacks (2015 - Present) 
-* Mining Emply Blocks (2016 - Present) 
+* Mining Empty Blocks (2016 - Present) 
 * Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
 * Bitcoin Car Talk (Mikeinspace is Roger Ver's hired sock puppet. Proof: bit.ly/cartalk14)
