@@ -11,7 +11,6 @@
 * [Berry Silbert](https://darksidebtc.com/berry-silbert)
 * [Jeff Garzik](https://darksidebtc.com/jeff-garzik)
 * [Jihan Wu](https://darksidebtc.com/jihan-wu)
-* [Vitalik Buterin](https://darksidebtc.com/vitalik-buterin)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
@@ -19,6 +18,7 @@
 * [Carlos Matos](https://darksidebtc.com/carlos-matos)
 * [Rhett Creighton](https://darksidebtc.com/rhett-creighton)
 * [Michael Suppo](https://darksidebtc.com/michael-suppo)
+* [Chris Larsen](https://darksidebtc.com/chris-larsen)
 
 # Attempted Attacks
 
@@ -43,6 +43,8 @@
 * [Bitcoin Private](https://darksidebtc.com/bitcoin-private)
 * [Bitcoin Prime](https://darksidebtc.com/bitcoin-prime)
 * [Bytecoin](https://darksidebtc.com/bytecoin)
+* [XRP](https://darksidebtc.com/XRP)
+
 
 ![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
