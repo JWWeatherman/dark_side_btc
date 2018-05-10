@@ -23,8 +23,7 @@
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
-* Ben Lawsky http://fortune.com/2015/08/14/bitcoin-startups-leave-new-york-bitlicense/
-* Francis was here ;) 
+* [Ben Lawsky](https://darksidebtc.com/benjamin-lawsky)
 
 # Past Attacks
 
