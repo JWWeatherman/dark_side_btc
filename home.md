@@ -1,11 +1,6 @@
 <!-- TITLE: Darkside Bitcoin -->
 <!-- SUBTITLE: Keeping track of attacks against bitcoin and those behind them -->
 
-![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
-
-
-
-
 
 # Known Bad Actors
 
@@ -48,4 +43,6 @@
 * Bitcoin Private
 * Bitcoin Prime
 * Bytecoin
+
+![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
