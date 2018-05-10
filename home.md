@@ -19,6 +19,7 @@
 * [Rhett Creighton](https://darksidebtc.com/rhett-creighton)
 * [Michael Suppo](https://darksidebtc.com/michael-suppo)
 * [Chris Larsen](https://darksidebtc.com/chris-larsen)
+* [Tiffany Hayden](https://darksidebtc.com/tiffany-hayden)
 
 # Attempted Attacks
 
