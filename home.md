@@ -38,11 +38,11 @@
 
 
 # Known Scams
-* Paycoin
-* Bitconnect
-* Bitcoin Private
-* Bitcoin Prime
-* Bytecoin
+* [Paycoin](https://darksidebtc.com/paycoin)
+* [Bitconnect](https://darksidebtc.com/bitconnect)
+* [Bitcoin Private](https://darksidebtc.com/bitcoin-private)
+* [Bitcoin Prime](https://darksidebtc.com/bitcoin-prime)
+* [Bytecoin](https://darksidebtc.com/bytecoin)
 
 ![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
