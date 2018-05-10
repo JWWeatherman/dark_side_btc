@@ -33,7 +33,6 @@
 * Spam Attacks (2015 - Present) 
 * Mining Empty Blocks (2016 - Present) 
 * Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
-* Bitcoin Car Talk (Mikeinspace is Roger Ver's hired sock puppet. Proof: bit.ly/cartalk14)
 * NY Attorney General Eric Schneiderman's attempt to launch a probe into crypto exchanges http://fortune.com/2018/04/18/new-york-ag-cryptocurrencies-bitcoin/
 * Disregard - that was fast... buhbye, Eric. Thanks for playing. :) https://www.newyorker.com/news/news-desk/four-women-accuse-new-yorks-attorney-general-of-physical-abuse
 
