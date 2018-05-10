@@ -5,7 +5,7 @@
 
 # Past Attackers
 
-* Mike Hearn
+* [Mike Hearn](https://darksidebtc.com/mike-hearn)
 * [Gavin Andresen](https://darksidebtc.com/gavin-andresen)
 * [Craig Wright](https://darksidebtc.com/craig-wright)
 * [Roger Ver](https://darksidebtc.com/roger-ver)
