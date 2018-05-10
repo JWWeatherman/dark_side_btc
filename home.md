@@ -3,7 +3,7 @@
 
 ![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
-[video](https://www.youtube.com/watch?v=xK3yuxrmCac){.youtube}
+
 
 
 
@@ -23,8 +23,9 @@
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
 * [Ben Lawsky](https://darksidebtc.com/benjamin-lawsky)
-* [Carlos Matos]
+* [Carlos Matos](https://darksidebtc.com/carlos-matos)
 * [Rhett Creighton](https://darksidebtc.com/rhett-creighton)
+* [Michael Suppo](https://darksidebtc.com/michael-suppo)
 
 # Attempted Attacks
 
