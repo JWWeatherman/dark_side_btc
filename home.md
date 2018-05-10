@@ -24,7 +24,7 @@
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
 * [Ben Lawsky](https://darksidebtc.com/benjamin-lawsky)
 * [Carlos Matos]
-* [Rhett Creighton]
+* [Rhett Creighton](https://darksidebtc.com/rhett-creighton)
 
 # Attempted Attacks
 
