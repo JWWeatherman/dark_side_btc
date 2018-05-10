@@ -28,17 +28,22 @@
 * Bitcoin Classic
 * Bitcoin XT
 * Bank projects (R3CEV, Enterprise Ethereum Alliance)
+* Ripple
+* Ethereum
 * Spam Attacks (2015 - Present) 
 * Mining Empty Blocks (2016 - Present) 
 * Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
 * Bitcoin Car Talk (Mikeinspace is Roger Ver's hired sock puppet. Proof: bit.ly/cartalk14)
+* NY Attorney General Eric Schneiderman's attempt to launch a probe into crypto exchanges http://fortune.com/2018/04/18/new-york-ag-cryptocurrencies-bitcoin/
+### * Disregard - that was fast... buhbye, Eric. Thanks for playing. :) https://www.newyorker.com/news/news-desk/four-women-accuse-new-yorks-attorney-general-of-physical-abuse
+
 
 # Known Scams
-* [Paycoin](https://darksidebtc.com/paycoin)
-* [Bitconnect](https://darksidebtc.com/bitconnect)
-* [Bitcoin Private](https://darksidebtc.com/bitcoin-private)
-* [Bitcoin Prime](https://darksidebtc.com/bitcoin-prime)
-* [Bytecoin](https://darksidebtc.com/bytecoin)
+* Paycoin
+* Bitconnect
+* Bitcoin Private
+* Bitcoin Prime
+* Bytecoin
 
 ![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
