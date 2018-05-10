@@ -3,9 +3,6 @@
 
 ![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
 
-[video](https://www.youtube.com/watch?v=dQw4w9WgXcQ){.youtube}
-
-
 # Past Attackers
 
 * [Mike Hearn](https://darksidebtc.com/mike-hearn)
@@ -16,14 +13,10 @@
 * [Jeff Garzik](https://darksidebtc.com/jeff-garzik)
 * [Jihan Wu](https://darksidebtc.com/jihan-wu)
 * [Vitalik Buterin](https://darksidebtc.com/vitalik-buterin)
-* [Agustin Carstens](https://darksidebtc.com/agustin-carstens)
-* [Jamie Dimon](https://darksidebtc.com/jamie-dimon)
-* [Paul Krugman](https://darksidebtc.com/paul-krugman)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
-* Ben Lawsky http://fortune.com/2015/08/14/bitcoin-startups-leave-new-york-bitlicense/
-* Francis was here ;) 
+* Ben Lawsky 
 
 # Past Attacks
 
