@@ -8,7 +8,7 @@
 * [Gavin Andresen](https://darksidebtc.com/gavin-andresen)
 * [Craig Wright](https://darksidebtc.com/craig-wright)
 * [Roger Ver](https://darksidebtc.com/roger-ver)
-* [Berry Silbert](https://darksidebtc.com/berry-silbert)
+* [Barry Silbert](https://darksidebtc.com/berry-silbert)
 * [Jeff Garzik](https://darksidebtc.com/jeff-garzik)
 * [Jihan Wu](https://darksidebtc.com/jihan-wu)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
