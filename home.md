@@ -7,7 +7,7 @@
 
 
 
-# Past Attackers
+# Known Bad Actors
 
 * [Mike Hearn](https://darksidebtc.com/mike-hearn)
 * [Gavin Andresen](https://darksidebtc.com/gavin-andresen)
@@ -17,15 +17,16 @@
 * [Jeff Garzik](https://darksidebtc.com/jeff-garzik)
 * [Jihan Wu](https://darksidebtc.com/jihan-wu)
 * [Vitalik Buterin](https://darksidebtc.com/vitalik-buterin)
-* [Agustin Carstens](https://darksidebtc.com/agustin-carstens)
 * [Jamie Dimon](https://darksidebtc.com/jamie-dimon)
 * [Paul Krugman](https://darksidebtc.com/paul-krugman)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
 * [Ben Lawsky](https://darksidebtc.com/benjamin-lawsky)
+* [Carlos Matos]
+* [Rhett Creighton]
 
-# Past Attacks
+# Attempted Attacks
 
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
 * SegWit2x (btc1) / New York Agreement (NYA)
@@ -39,4 +40,11 @@
 * Mining Empty Blocks (2016 - Present) 
 * Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
 * Bitcoin Car Talk (Mikeinspace is Roger Ver's hired sock puppet. Proof: bit.ly/cartalk14)
-* 
+
+# Known Scams
+* Paycoin
+* Bitconnect
+* Bitcoin Private
+* Bitcoin Prime
+* Bytecoin
+
