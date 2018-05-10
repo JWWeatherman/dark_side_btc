@@ -12,8 +12,6 @@
 * [Jeff Garzik](https://darksidebtc.com/jeff-garzik)
 * [Jihan Wu](https://darksidebtc.com/jihan-wu)
 * [Vitalik Buterin](https://darksidebtc.com/vitalik-buterin)
-* [Jamie Dimon](https://darksidebtc.com/jamie-dimon)
-* [Paul Krugman](https://darksidebtc.com/paul-krugman)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
 * [Brian Armstrong](https://darksidebtc.com/brian-armstrong)
