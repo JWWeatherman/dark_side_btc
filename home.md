@@ -18,6 +18,7 @@
 * [Paul Krugman](https://darksidebtc.com/paul-krugman)
 * [Emin Gün Sirer](https://darksidebtc.com/emin-gun-sirer)
 * [Rick Falkvinge](https://darksidebtc.com/rick-falkvinge)
+* Ben Lawsky http://fortune.com/2015/08/14/bitcoin-startups-leave-new-york-bitlicense/
 * Francis was here ;) 
 
 # Past Attacks
@@ -34,3 +35,4 @@
 * Mining Empty Blocks (2016 - Present) 
 * Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
 * Bitcoin Car Talk (Mikeinspace is Roger Ver's hired sock puppet. Proof: bit.ly/cartalk14)
+* 
