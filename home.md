@@ -28,8 +28,6 @@
 * Bitcoin Classic
 * Bitcoin XT
 * Bank projects (R3CEV, Enterprise Ethereum Alliance)
-* Ripple
-* Ethereum
 * Spam Attacks (2015 - Present) 
 * Mining Empty Blocks (2016 - Present) 
 * Economic infeasibility (Satoshi's 1M coins/economic inequality, deflationary currency)
