@@ -20,6 +20,7 @@
 * [Michael Suppo](https://darksidebtc.com/michael-suppo)
 * [Chris Larsen](https://darksidebtc.com/chris-larsen)
 * [Tiffany Hayden](https://darksidebtc.com/tiffany-hayden)
+* [Peter Vessenes](https://darksidebtc.com/peter-vessenes)
 
 # Attempted Attacks
 
