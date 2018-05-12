@@ -18,7 +18,7 @@ Ver promply sued OKCoin over the matter.
 
 >"the whole website is crafted to convince you that Bitcoin Cash (live since August 2017 only) is somehow the “real” Bitcoin. As a result, making sure you are buying BTC and not BCH through Bitcoin.com is an extremely demanding task, so much so that a newcomer would be happily buying BCH there and expecting it to be Bitcoin."
 
-Ver is one of the most visible and outspoken pushers of BCash: a hardfork of Bitcoin that introduces a dangerously large blocks security flaw into the protocol. However, BCash is only the most recent fork that he’s decided to shill in a growing list of now-defunct, big-block forks he’s promoted: Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, SegWit2X. 
+Ver is one of the most visible and outspoken pushers of BCash: a hardfork of Bitcoin that introduces a dangerous large block security flaw into the protocol. However, BCash is only the most recent fork that he’s decided to shill in a growing list of now-defunct, big-block forks he’s promoted: Bitcoin XT, Bitcoin Classic, Bitcoin Unlimited, SegWit2X. 
 
 He’s also gained control of /r/btc, which he consistently uses as a platform to attack Bitcoin. He’s been accused of using <a href="https://archive.is/8hX4N">Bitcoin.com to incentivize sock-puppets</a> and bot-makers in order to manipulate the reddit voting system.
 
