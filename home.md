@@ -24,6 +24,7 @@ Attempted Attacks
     Purchase of bitcoin.com and @bitcoin to spread propaganda and promote bcash alt coin
     Craig Write pretending to be Satoshi
 CNBC Collusion with Ver to pump bcash price
+Coinbase listing of bcash with buy only enabled coupled with insider information pumping price to obscene levels via wash trading
     SegWit2x (btc1) / New York Agreement (NYA)
     Bitcoin Unlimited
     Bitcoin Classic
