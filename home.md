@@ -21,6 +21,7 @@
 * [Chris Larsen](https://darksidebtc.com/chris-larsen)
 * [Tiffany Hayden](https://darksidebtc.com/tiffany-hayden)
 * [Peter Vessenes](https://darksidebtc.com/peter-vessenes)
+* [Calvin Ayre]
 
 # Attempted Attacks
 
