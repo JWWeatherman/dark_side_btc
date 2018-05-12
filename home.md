@@ -47,6 +47,7 @@
 * [Bitcoin Prime](https://darksidebtc.com/bitcoin-prime)
 * [Bytecoin](https://darksidebtc.com/bytecoin)
 * [XRP](https://darksidebtc.com/XRP)
+* bitcoin cash
 
 
 ![alt text](https://res.cloudinary.com/doohickey/image/upload/v1517938258/darkside_folks_g83unk.png "Star Wars Characters")
