@@ -23,6 +23,7 @@ Attempted Attacks
     Creation and use of sockpuppet accounts to fill r/btc with content
     Purchase of bitcoin.com and @bitcoin to spread propaganda and promote bcash alt coin
     Craig Write pretending to be Satoshi
+CNBC Collusion with Ver to pump bcash price
     SegWit2x (btc1) / New York Agreement (NYA)
     Bitcoin Unlimited
     Bitcoin Classic
