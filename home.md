@@ -26,7 +26,8 @@
 # Attempted Attacks
 
 * [BCash aka Bitcoin Cash (Aug 2017 - Present)](https://darksidebtc.com/bcash)
-* Creation and use of sockpuppet accounts to fill r/btc with content.
+* Creation and use of sockpuppet accounts to fill r/btc with content
+* Purchase of bitcoin.com and @bitcoin to spread propaganda and promote bcash alt coin
 * SegWit2x (btc1) / New York Agreement (NYA)
 * Bitcoin Unlimited
 * Bitcoin Classic
