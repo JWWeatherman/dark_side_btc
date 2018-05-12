@@ -1,4 +1,4 @@
 <!-- TITLE: Rhett Creighton -->
-<!-- SUBTITLE: A quick summary of Rhett Creighton -->
+<!-- SUBTITLE: Careful not to get Rhektt -->
 
 # Header
