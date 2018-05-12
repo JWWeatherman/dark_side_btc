@@ -43,3 +43,4 @@ Known Scams
     Bytecoin
     XRP
     bitcoin cash
+		BitPay
