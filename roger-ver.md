@@ -1,7 +1,7 @@
 <!-- TITLE: Roger Ver -->
 <!-- SUBTITLE: ~~Bitcoin Jesus~~ ~~Bitcoin Judas~~ Megatron-->
 
-Roger Ver was an early chicken in and originally a proponent of Bitcoin, however, <a href="https://cryptoinsider.21mil.com/bitcoin-classic-unlimited-bitcoin-cash-why-people-copy-bitcoin-why-it-does-not-matter/">since 2013 has consistently attempted to undermine the reputation, usability, and security of Bitcoin</a> via malicious propaganda campaigns, backing hostile takeover schemes, and supporting a hardfork (BCash) that introduces a dangerously large blocks security flaw. 
+Roger Ver was an early chicken in and originally a proponent of Bitcoin, however, <a href="https://cryptoinsider.21mil.com/bitcoin-classic-unlimited-bitcoin-cash-why-people-copy-bitcoin-why-it-does-not-matter/">since 2013 has consistently attempted to undermine the reputation, usability, and security of Bitcoin</a> via malicious propaganda campaigns, backing hostile takeover schemes, and supporting a hardfork (BCash) that introduces   large blocks, a dangerous security flaw. 
 
 Ver is very likely to have profited from inside information regarding the Mt. Gox disaster by <a href="https://youtu.be/UP1YsMlrfF0/">misleading the public </a> as to the stability the exchange and subsequently scooping up bitcoin on the cheap after its collapse. He’s been influential in the formation of centralized Chinese mining pools, with the primary aim at hostile take-over of the network(source needed re: Chinese mining pools?). 
 
