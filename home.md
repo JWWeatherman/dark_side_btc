@@ -4,7 +4,7 @@
     Roger Ver
     Barry Silbert
     Jeff Garzik
-    Jihan Wu
+    Jihan Wu 
     Emin Gün Sirer
     Rick Falkvinge
     Brian Armstrong
@@ -46,3 +46,4 @@ Known Scams
     XRP
     bitcoin cash
 		BitPay
+		Bumbumcoin
