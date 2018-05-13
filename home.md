@@ -22,7 +22,7 @@ Attempted Attacks
     BCash aka Bitcoin Cash (Aug 2017 - Present)
     Creation and use of sockpuppet accounts to fill r/btc with content
     Purchase of bitcoin.com and @bitcoin to spread propaganda and promote bcash alt coin
-    Craig Write pretending to be Satoshi
+    Craig Wright pretending to be Satoshi
 CNBC Collusion with Ver to pump bcash price
 Coinbase listing of bcash with buy only enabled coupled with insider information pumping price to obscene levels via wash trading
     SegWit2x (btc1) / New York Agreement (NYA)
